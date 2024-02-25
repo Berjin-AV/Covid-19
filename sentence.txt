@@ -1,0 +1,8 @@
+ it creates and edits plain text documents First released in 1983 to commercialize the computer mouse in MS-DOS To keep your local and remote sources synchronized, configure automatic upload using the Upload changed files automatically to the default server list in the Deployment Options dialog 
+
+
+PyCharm does not support direct editing of files on remote hostsWindows Notepad is a simple text editor for Windows
+
+
+
+Once you have opened a folder in PyCharm, the idea subfolder is added to it where PyCharm stores its internal configuration settings, for example, for the project code style or the version control system Therefore to work with remote sources in PyCharm, you need to download them, open the folder where they are stored, and arrange them in a PyCharm project, as described in Create a project from existing sources
